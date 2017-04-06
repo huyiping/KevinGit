@@ -6,4 +6,10 @@ int main()
 	return 0;
 }
 
-// add by master
+// origin b1 add
+// add by branch1
+<<<<<<< HEAD
+// add by branch1B
+=======
+// add by branch1A
+>>>>>>> branch1A
