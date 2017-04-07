@@ -41,3 +41,4 @@ funB3()
 }
 
 debug low power
+gsensor step feature
