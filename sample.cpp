@@ -18,6 +18,11 @@ funA3()
 	printf("hello world A3!");
 }
 
+funA4()
+{
+	printf("hello world A4!");
+}
+
 funB1()
 {
 	printf("hello world B1");
