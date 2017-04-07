@@ -20,3 +20,8 @@ funB2()
 	printf("hello world B2");
 	printf("hello world B2 B2");
 }
+
+funB3()
+{
+	printf("hello world B3");
+}
