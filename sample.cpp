@@ -39,3 +39,5 @@ funB3()
 	printf("hello world B3");
 	printf("hello world B3 B3");
 }
+
+debug low power
