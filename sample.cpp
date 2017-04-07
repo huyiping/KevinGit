@@ -2,8 +2,8 @@
 
 int main()
 {
+	printf("this line add by UserA");
 	std::out << "hello git!" << std::endl;
-	return 0;
 }
 
 funA1()
