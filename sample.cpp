@@ -6,14 +6,14 @@ int main()
 	std::out << "hello git!" << std::endl;
 }
 
-funA1()
-{
-	printf("hello world A1!");
-}
-
-funA2()
+funA2_2()
 {
 	printf("hello world A2!");
+}
+
+funA3()
+{
+	printf("hello world A3!");
 }
 
 funB1()
