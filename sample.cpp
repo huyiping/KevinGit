@@ -9,6 +9,8 @@ int main()
 funA2_2()
 {
 	printf("hello world A2!");
+	printf("hello world A2 A2!");
+	printf("hello world A2 A2 A2");
 }
 
 funA3()
