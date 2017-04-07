@@ -18,4 +18,5 @@ funB1()
 funB2()
 {
 	printf("hello world B2");
+	printf("hello world B2 B2");
 }
