@@ -7,3 +7,5 @@ fun2
 fun2 new
 
 release 1.0
+
+hotfix1
