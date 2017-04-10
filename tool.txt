@@ -2,3 +2,5 @@ tool file
 add ecompass feature
 new funA
 fun2
+
+fun2 new
