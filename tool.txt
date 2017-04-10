@@ -1,1 +1,9 @@
 tool file
+add ecompass feature
+new funA
+fun1
+fun2
+
+fun2 new
+
+release 1.0
